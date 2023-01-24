@@ -1,3 +1,4 @@
+CS 462 Final Project Fall 22
 Author: Shannon Stoehr
 email: secstoehr@gmail.com
 
